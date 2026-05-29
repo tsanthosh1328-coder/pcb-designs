@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LDR_Sensor_Module.kicad_pro",
+    "filename": "Accerometer_and_Gryoscope_Sensor_Module.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,17 +643,17 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "LDR_Sensor_Module.kicad_sch",
-        "name": "Root",
-        "uuid": "a7cafc96-8bf4-4068-a0ea-d87ca94ba041"
+        "filename": "Accerometer_and_Gryoscope_Sensor_Module.kicad_sch",
+        "name": "Accerometer_and_Gryoscope_Sensor_Module",
+        "uuid": "02c4fbba-903b-4e16-a10d-e6b08777338f"
       }
     ],
-    "used_designators": "U1-2,J1,#FLG1-2,R1-5,RV1,D1-2,#PWR1-2,C1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "a7cafc96-8bf4-4068-a0ea-d87ca94ba041",
+      "02c4fbba-903b-4e16-a10d-e6b08777338f",
       "Root"
     ]
   ],

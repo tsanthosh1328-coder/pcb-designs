@@ -960,7 +960,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "52ac3366-c0a6-4177-a42e-db5a27bcec10")
 			(effects
 				(font
@@ -1186,7 +1186,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "5aefc27c-ebb0-4f35-9e8c-fd87e8bbdf86")
 			(effects
 				(font
@@ -1445,7 +1445,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at -3.78 2.54 180)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "6016bada-f9c4-4f71-bedb-39aeac580659")
 			(effects
 				(font
@@ -1626,7 +1626,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 270)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "fb6af9e6-3cca-4500-868e-c788c58e1a80")
 			(effects
 				(font
@@ -1792,7 +1792,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "93a0abbd-a551-4a5b-9187-93b39bd263ef")
 			(effects
 				(font
@@ -1958,7 +1958,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "80d23e76-5724-44f9-b5d0-88b9ed5c2aca")
 			(effects
 				(font
@@ -2203,7 +2203,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 -3.81 90)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "8b00f818-cacb-4d86-82c6-46b7ba2a94e1")
 			(effects
 				(font
@@ -2395,7 +2395,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "0345ce28-c377-45d1-b660-e03f6ae8c8f1")
 			(effects
 				(font
@@ -2623,7 +2623,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "432361f3-f06e-4df2-bfbc-76939ba95a62")
 			(effects
 				(font
@@ -2791,7 +2791,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "53753ad6-42d2-4212-9284-6992e0f84bab")
 			(effects
 				(font
@@ -2957,7 +2957,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "472e4124-11d7-4aec-bbf6-be65d314908d")
 			(effects
 				(font
@@ -3123,7 +3123,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "08274ac9-7340-49e6-995f-90ee65a11255")
 			(effects
 				(font
@@ -3351,7 +3351,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "e2010453-3e47-405c-91df-b6d11e20d155")
 			(effects
 				(font
@@ -3519,7 +3519,7 @@
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 270)
-			(layer "B.SilkS")
+			(layer "B.Fab")
 			(uuid "fbb94119-88da-41f0-9c60-47e677b3568b")
 			(effects
 				(font

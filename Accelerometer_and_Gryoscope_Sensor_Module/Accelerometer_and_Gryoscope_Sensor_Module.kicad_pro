@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Accerometer_and_Gryoscope_Sensor_Module.kicad_pro",
+    "filename": "Accelerometer_and_Gryoscope_Sensor_Module.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Accerometer_and_Gryoscope_Sensor_Module.kicad_sch",
-        "name": "Accerometer_and_Gryoscope_Sensor_Module",
+        "filename": "Accelerometer_and_Gryoscope_Sensor_Module.kicad_sch",
+        "name": "Accelerometer_and_Gryoscope_Sensor_Module",
         "uuid": "02c4fbba-903b-4e16-a10d-e6b08777338f"
       }
     ],

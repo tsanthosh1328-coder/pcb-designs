@@ -6077,8 +6077,8 @@
 		)
 	)
 	(gr_rect
-		(start 89 96.5)
-		(end 140 138)
+		(start 90 96.5)
+		(end 138.5 137)
 		(stroke
 			(width 0.05)
 			(type default)
